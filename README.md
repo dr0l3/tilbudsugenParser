@@ -1,1 +1,1 @@
-# tilbudsugenScraper
+# tilbudsugenParser
